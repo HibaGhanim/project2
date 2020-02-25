@@ -1,1 +1,8 @@
-
+<project default="compile">
+  <property name="" location=""/>
+   <property name="" location="">
+  <property name="result.j" location="$"/>
+     
+     <target name="compile">
+       <mdir />
+</project>
